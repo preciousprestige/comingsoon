@@ -9,7 +9,7 @@ export default function ComingSoon() {
       
       <div className="header">
         <div className="hamburger" onClick={() => setMenuOpen(!menuOpen)}>&#9776;</div>
-        <div className="logo">$W.W.M</div>
+        <div className="logo">W.W.M</div>
       </div>
 
       {menuOpen && (
