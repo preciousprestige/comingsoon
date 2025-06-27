@@ -1,7 +1,7 @@
 import React from 'react';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
-import Intro from './Intro'; 
-import ComingSoon from './ComingSoon'; 
+import Intro from './Intro';
+import ComingSoon from './ComingSoon';
 import './index.css';
 
 export default function App() {

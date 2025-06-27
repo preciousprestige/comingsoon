@@ -15,6 +15,14 @@ export default function ComingSoon() {
       {menuOpen && (
         <div className="menu">
           <p>COMING SOON</p>
+          <a 
+            href="https://encr.pw/precious-io" 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            style={{ color: 'white', textDecoration: 'none', display: 'block', marginTop: '10px' }}
+          >
+            View My Portfolio
+          </a>
         </div>
       )}
 
